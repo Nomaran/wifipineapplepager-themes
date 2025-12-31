@@ -23,7 +23,7 @@
 
 ## Installation
 
-1. Copy the `Chromatic_Trout` folder to `/root/themes/` on your pager
+1. Copy the `chromatic_trout` folder to `/root/themes/` on your pager
 2. Navigate to **Settings > General > Theme**
 3. Select **Chromatic_Trout**
 4. Enjoy!
