@@ -32,7 +32,7 @@
             "selected_layers": [
               { "variable_name": "$_LIST_ITEM", "x": 60, "y": 60,
               "string_template": { "text_size": "medium", "text_color_palette": "yellow", "max_chars": 20, "wrap_text": false, "max_lines": 1 }},
-              { "image_path": "assets/payloads_dashboard/arrow.png", "x": 18, "y": 62 },
+              { "image_path": "assets/payloads_dashboard/arrow.png", "x": 17, "y": 62 },
               { "image_path": "assets/folder.png", "x": 35, "y": 58, "recolor_palette": "gray" }
             ],
             "target": "payloads_for_category_list",
@@ -43,12 +43,12 @@
             "layers": [
               { "variable_name": "$_LIST_ITEM", "x": 60, "y": 89,
               "string_template": { "text_size": "medium", "text_color_palette": "blue", "max_chars": 20, "wrap_text": false, "max_lines": 1 }},
-              { "image_path": "assets/folder.png", "x": 177, "y": 87, "recolor_palette": "gray" }
+              { "image_path": "assets/folder.png", "x": 35, "y": 87, "recolor_palette": "gray" }
             ],
             "selected_layers": [
               { "variable_name": "$_LIST_ITEM", "x": 60, "y": 89,
               "string_template": { "text_size": "medium", "text_color_palette": "yellow", "max_chars": 20, "wrap_text": false, "max_lines": 1 }},
-              { "image_path": "assets/payloads_dashboard/arrow.png", "x": 18, "y": 91 },
+              { "image_path": "assets/payloads_dashboard/arrow.png", "x": 17, "y": 91 },
               { "image_path": "assets/folder.png", "x": 35, "y": 87, "recolor_palette": "gray" }
             ],
             "target": "payloads_for_category_list",
@@ -59,12 +59,12 @@
             "layers": [
               { "variable_name": "$_LIST_ITEM", "x": 60, "y": 118,
               "string_template": { "text_size": "medium", "text_color_palette": "blue", "max_chars": 20, "wrap_text": false, "max_lines": 1 }},
-              { "image_path": "assets/folder.png", "x": 177, "y": 116, "recolor_palette": "gray" }
+              { "image_path": "assets/folder.png", "x": 35, "y": 116, "recolor_palette": "gray" }
             ],
             "selected_layers": [
               { "variable_name": "$_LIST_ITEM", "x": 60, "y": 118,
               "string_template": { "text_size": "medium", "text_color_palette": "yellow", "max_chars": 20, "wrap_text": false, "max_lines": 1 }},
-              { "image_path": "assets/payloads_dashboard/arrow.png",  "x": 18, "y": 120 },
+              { "image_path": "assets/payloads_dashboard/arrow.png",  "x": 17, "y": 120 },
               { "image_path": "assets/folder.png", "x": 35, "y": 116, "recolor_palette": "gray" }
             ],
             "target": "payloads_for_category_list",
@@ -75,12 +75,12 @@
             "layers": [
               { "variable_name": "$_LIST_ITEM", "x": 60, "y": 147,
               "string_template": { "text_size": "medium", "text_color_palette": "blue", "max_chars": 20, "wrap_text": false, "max_lines": 1 }},
-              { "image_path": "assets/folder.png", "x": 177, "y": 146, "recolor_palette": "gray" }
+              { "image_path": "assets/folder.png", "x": 35, "y": 146, "recolor_palette": "gray" }
             ],
             "selected_layers": [
               { "variable_name": "$_LIST_ITEM", "x": 60, "y": 147,
               "string_template": { "text_size": "medium", "text_color_palette": "yellow", "max_chars": 20, "wrap_text": false, "max_lines": 1 }},
-              { "image_path": "assets/payloads_dashboard/arrow.png", "x": 18, "y": 149 },
+              { "image_path": "assets/payloads_dashboard/arrow.png", "x": 17, "y": 149 },
               { "image_path": "assets/folder.png", "x": 35, "y": 146, "recolor_palette": "gray" }
             ],
             "target": "payloads_for_category_list",
@@ -91,12 +91,12 @@
             "layers": [
               { "variable_name": "$_LIST_ITEM", "x": 60, "y": 176,
               "string_template": { "text_size": "medium", "text_color_palette": "blue", "max_chars": 20, "wrap_text": false, "max_lines": 1 }},
-              { "image_path": "assets/folder.png", "x": 177, "y": 174, "recolor_palette": "gray" }
+              { "image_path": "assets/folder.png", "x": 35, "y": 174, "recolor_palette": "gray" }
             ],
             "selected_layers": [
               { "variable_name": "$_LIST_ITEM", "x": 60, "y": 176,
               "string_template": { "text_size": "medium", "text_color_palette": "yellow", "max_chars": 20, "wrap_text": false, "max_lines": 1 }},
-              { "image_path": "assets/payloads_dashboard/arrow.png", "x": 18, "y": 178 },
+              { "image_path": "assets/payloads_dashboard/arrow.png", "x": 17, "y": 178 },
               { "image_path": "assets/folder.png", "x": 35, "y": 174, "recolor_palette": "gray" }
             ],
             "target": "payloads_for_category_list",
