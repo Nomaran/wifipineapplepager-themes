@@ -1,5 +1,6 @@
 #!/bin/bash
 # Cleanup script - removes all build system files, keeps only the theme
+# Author: ThewitchASarz
 
 echo "Cleaning up build system files..."
 echo ""
