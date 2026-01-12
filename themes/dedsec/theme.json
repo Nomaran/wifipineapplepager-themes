@@ -45,7 +45,8 @@
     "recon_selected_ap_client_menu": "components/recon/recon_selected_ap_client_menu.json",
 
     "pineap_menu": "components/dashboards/dashboard_pineap.json",
-    "settings_menu": "components/dashboards/dashboard_settings.json"
+    "settings_menu": "components/dashboards/dashboard_settings.json",
+    "wigle_menu": "components/dashboards/dashboard_wigle.json"
   },
 
   "option_dialogs": {

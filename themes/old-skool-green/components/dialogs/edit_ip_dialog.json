@@ -19,9 +19,9 @@
       ],
       "selected_layers": [
         { "image_path": "assets/payload_dialog_option_bg.png","x": 28, "y": 107 },
-        { "image_path": "assets/flame.png","x": 92, "y": 148, "recolor_palette":  "green" },
+        { "image_path": "assets/flame.png","x": 92, "y": 148, "recolor_palette":  "yellow" },
         { "image_path": "assets/payload_dialog_selected_box.png","x": 28, "y": 107 },
-        { "text": "Save", "x": 61, "y": 115, "text_color_palette": "green", "text_size": "large" }
+        { "text": "Save", "x": 61, "y": 115, "text_color_palette": "yellow", "text_size": "large" }
       ],
       "target": "save"
     },
