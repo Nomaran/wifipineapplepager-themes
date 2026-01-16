@@ -155,19 +155,19 @@
           "variable": "$_2.4Ghz_ENABLED"
         },
         {
-          "id": "bluetooth",
+          "id": "Bluetooth",
           "x":170,
           "y":155,
           "layers": [
-            { "variable_name":  "$_bluetooth_ENABLED", "use_template": "toggle" },
-            { "text": "bluetooth", "x": 40, "text_color_palette": "green" }
+            { "variable_name":  "$_BLUETOOTH_ENABLED", "use_template": "toggle" },
+            { "text": "Bluetooth", "x": 40, "text_color_palette": "green" }
           ],
           "selected_layers": [
-            { "variable_name":  "$_bluetooth_ENABLED", "use_template": "toggle" },
-            { "text": "bluetooth", "x": 40, "text_color_palette": "white" }
+            { "variable_name":  "$_BLUETOOTH_ENABLED", "use_template": "toggle" },
+            { "text": "Bluetooth", "x": 40, "text_color_palette": "white" }
           ],
           "target": "inline_toggle",
-          "variable": "$_bluetooth_ENABLED"
+          "variable": "$_BLUETOOTH_ENABLED"
         }
       ]
     }
