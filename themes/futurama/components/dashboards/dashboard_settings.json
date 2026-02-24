@@ -183,17 +183,18 @@
               "y":50
             },
 
-            { "x": 170, "y": 85, "image_path": "assets/menu_disabled.png", "recolor_palette": "pngsettingsicongray"  },
-            { "x": 210, "y": 85, "text_color_palette": "textsettingsgray",           "text": "Timezone" },
+            { "x": 170, "y": 85, "variable_name": "$_CLOCK_24HR", 
+            "use_template": "disabled_toggle", "recolor_palette": "pngsettingsicongray"  },
+            { "x": 210, "y": 85, "text_color_palette": "textsettingsgray",           "text": "24 Hour Clock" },
 
-            { "x": 170, "y": 120, "image_path": "assets/disabled_keyboard.png", "recolor_palette": "pngsettingsicongray"  },
-            { "x": 210, "y": 120, "text_color_palette": "textsettingsgray",           "text": "Year" },
+            { "x": 170, "y": 120, "image_path": "assets/menu_disabled.png", "recolor_palette": "pngsettingsicongray"  },
+            { "x": 210, "y": 120, "text_color_palette": "textsettingsgray",           "text": "Timezone" },
 
             { "x": 170, "y": 155, "image_path": "assets/disabled_keyboard.png", "recolor_palette": "pngsettingsicongray"  },
-            { "x": 210, "y": 155, "text_color_palette": "textsettingsgray",           "text": "Month" },
+            { "x": 210, "y": 155, "text_color_palette": "textsettingsgray",           "text": "Year" },
 
             { "x": 170, "y": 190, "image_path": "assets/disabled_keyboard.png", "recolor_palette": "pngsettingsicongray"  },
-            { "x": 210, "y": 190, "text_color_palette": "textsettingsgray",           "text": "Day" }
+            { "x": 210, "y": 190, "text_color_palette": "textsettingsgray",           "text": "Month" }
           ],
           "x": 0,
           "y": 0,

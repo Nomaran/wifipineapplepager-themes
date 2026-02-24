@@ -93,11 +93,13 @@
           "y":190,
           "layers": [
             { "image_path": "assets/keyboard.png" },
-            { "text": "Month", "x": 40, "text_color_palette": "blue" }
+            { "text": "Month", "x": 40, "text_color_palette": "blue" },
+            { "image_path": "assets/down.png", "x": -20, "y": 10, "recolor_palette": "gray"}
           ],
           "selected_layers": [
             { "image_path": "assets/keyboard.png" },
-            { "text": "Month", "x": 40, "text_color_palette": "yellow" }
+            { "text": "Month", "x": 40, "text_color_palette": "yellow" },
+            { "image_path": "assets/down.png", "x": -20, "y": 10, "recolor_palette": "gray"}
           ],
           "target": "edit_number_dialog",
           "variable": "$_MONTH"
@@ -114,12 +116,12 @@
           "layers": [
             { "image_path": "assets/keyboard.png" },
             { "text": "Day", "x": 40, "text_color_palette": "blue" },
-            { "image_path": "assets/down.png", "x": -20, "y": 10, "recolor_palette": "gray"}
+            { "image_path": "assets/up.png", "x": -20, "y": -4, "recolor_palette": "gray"}
           ],
           "selected_layers": [
             { "image_path": "assets/keyboard.png" },
             { "text": "Day", "x": 40, "text_color_palette": "yellow" },
-            { "image_path": "assets/down.png", "x": -20, "y": 10, "recolor_palette": "gray"}
+            { "image_path": "assets/up.png", "x": -20, "y": -4, "recolor_palette": "gray"}
           ],
           "target": "edit_number_dialog",
           "variable": "$_DAY"
@@ -130,13 +132,11 @@
           "y":85,
           "layers": [
             { "image_path": "assets/keyboard.png" },
-            { "text": "Hour", "x": 40, "text_color_palette": "blue" },
-            { "image_path": "assets/up.png", "x": -20, "y": -4, "recolor_palette": "gray"}
+            { "text": "Hour", "x": 40, "text_color_palette": "blue" }
           ],
           "selected_layers": [
             { "image_path": "assets/keyboard.png" },
-            { "text": "Hour", "x": 40, "text_color_palette": "yellow" },
-            { "image_path": "assets/up.png", "x": -20, "y": -4, "recolor_palette": "gray"}
+            { "text": "Hour", "x": 40, "text_color_palette": "yellow" }
           ],
           "target": "edit_number_dialog",
           "variable": "$_HOUR"
