@@ -107,7 +107,7 @@
             { "image_path": "assets/x.png", "x": 7, "y": 4, "recolor_palette": "textpineapwizardclearselect" },
             { "text": "Clear", "x": 40, "text_color_palette": "textpineapwizardclearselect" }
           ],
-          "target": "function_clear_client_mode",
+          "target": "function_clear_wifi_client_mode",
           "button_map": {
             "a": "select",
             "b": "back",
